@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "pergunta": "Como você descreveria seu estado emocional atualmente?"
+    },
+    {
+      "id": 2,
+      "pergunta": "Você já buscou ajuda profissional antes?"
+    },
+    {
+      "id": 3,
+      "pergunta": "Quais são os principais desafios que você enfrenta no momento?"
+    },
+    {
+      "id": 4,
+      "pergunta": "Como você lida com situações de estresse?"
+    },
+    {
+      "id": 5,
+      "pergunta": "Qual é sua maior motivação para buscar terapia?"
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual é a sua disposição para trabalhar em mudanças pessoais?"
+    },
+    {
+      "id": 7,
+      "pergunta": "Como você se sente em relação a compartilhar suas emoções e pensamentos com um estranho?"
+    },
+    {
+      "id": 8,
+      "pergunta": "Você tem preferência por sessões presenciais ou online?"
+    },
+    {
+      "id": 9,
+      "pergunta": "Quais características você valoriza em um terapeuta?"
+    }
+  ]
+  

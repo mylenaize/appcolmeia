@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "COLMEIA",
+    "slug": "colmeia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-transparente.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-transparente.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-transparente.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo-transparente.png"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+    { "id_pergunta": 1, "alternativa": "Feliz", "pontuacao_tcc": 1, "pontuacao_act": 1, "pontuacao_th": 2, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 1, "alternativa": "Ansioso", "pontuacao_tcc": 5, "pontuacao_act": 4, "pontuacao_th": 0, "pontuacao_tp": 0, "pontuacao_dbt": 3 },
+    { "id_pergunta": 1, "alternativa": "Triste", "pontuacao_tcc": 2, "pontuacao_act": 0, "pontuacao_th": 4, "pontuacao_tp": 5, "pontuacao_dbt": 0 },
+    { "id_pergunta": 1, "alternativa": "Irritado", "pontuacao_tcc": 3, "pontuacao_act": 0, "pontuacao_th": 0, "pontuacao_tp": 2, "pontuacao_dbt": 4 },
+    { "id_pergunta": 1, "alternativa": "Neutro", "pontuacao_tcc": 3, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 3, "pontuacao_dbt": 3 },
+    
+    { "id_pergunta": 2, "alternativa": "Sim", "pontuacao_tcc": 2, "pontuacao_act": 2, "pontuacao_th": 2, "pontuacao_tp": 2, "pontuacao_dbt": 2 },
+    { "id_pergunta": 2, "alternativa": "Não", "pontuacao_tcc": 1, "pontuacao_act": 1, "pontuacao_th": 1, "pontuacao_tp": 1, "pontuacao_dbt": 1 },
+    
+    { "id_pergunta": 3, "alternativa": "Estresse no trabalho", "pontuacao_tcc": 4, "pontuacao_act": 3, "pontuacao_th": 2, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 3, "alternativa": "Dificuldades em relacionamentos", "pontuacao_tcc": 2, "pontuacao_act": 0, "pontuacao_th": 4, "pontuacao_tp": 3, "pontuacao_dbt": 4 },
+    { "id_pergunta": 3, "alternativa": "Problemas de autoestima", "pontuacao_tcc": 2, "pontuacao_act": 4, "pontuacao_th": 5, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 3, "alternativa": "Traumas passados", "pontuacao_tcc": 0, "pontuacao_act": 4, "pontuacao_th": 0, "pontuacao_tp": 5, "pontuacao_dbt": 3 },
+    { "id_pergunta": 3, "alternativa": "Ansiedade", "pontuacao_tcc": 5, "pontuacao_act": 4, "pontuacao_th": 0, "pontuacao_tp": 0, "pontuacao_dbt": 3 },
+  
+    { "id_pergunta": 4, "alternativa": "Evito", "pontuacao_tcc": 4, "pontuacao_act": 0, "pontuacao_th": 0, "pontuacao_tp": 3, "pontuacao_dbt": 0 },
+    { "id_pergunta": 4, "alternativa": "Busco distrações", "pontuacao_tcc": 0, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 0, "pontuacao_dbt": 4 },
+    { "id_pergunta": 4, "alternativa": "Conversa com amigos", "pontuacao_tcc": 0, "pontuacao_act": 3, "pontuacao_th": 4, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 4, "alternativa": "Pratico mindfulness", "pontuacao_tcc": 0, "pontuacao_act": 4, "pontuacao_th": 0, "pontuacao_tp": 0, "pontuacao_dbt": 5 },
+    { "id_pergunta": 4, "alternativa": "Reflito sobre a situação", "pontuacao_tcc": 4, "pontuacao_act": 3, "pontuacao_th": 0, "pontuacao_tp": 5, "pontuacao_dbt": 0 },
+  
+    { "id_pergunta": 5, "alternativa": "Autoconhecimento", "pontuacao_tcc": 0, "pontuacao_act": 4, "pontuacao_th": 5, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 5, "alternativa": "Melhorar relacionamentos", "pontuacao_tcc": 3, "pontuacao_act": 0, "pontuacao_th": 4, "pontuacao_tp": 0, "pontuacao_dbt": 3 },
+    { "id_pergunta": 5, "alternativa": "Enfrentar traumas", "pontuacao_tcc": 4, "pontuacao_act": 0, "pontuacao_th": 0, "pontuacao_tp": 5, "pontuacao_dbt": 3 },
+    { "id_pergunta": 5, "alternativa": "Reduzir ansiedade", "pontuacao_tcc": 5, "pontuacao_act": 4, "pontuacao_th": 0, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 5, "alternativa": "Aumentar a produtividade", "pontuacao_tcc": 3, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 3, "pontuacao_dbt": 3 },
+  
+    { "id_pergunta": 6, "alternativa": "Muito disposto", "pontuacao_tcc": 5, "pontuacao_act": 5, "pontuacao_th": 5, "pontuacao_tp": 5, "pontuacao_dbt": 5 },
+    { "id_pergunta": 6, "alternativa": "Moderadamente disposto", "pontuacao_tcc": 3, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 3, "pontuacao_dbt": 3 },
+    { "id_pergunta": 6, "alternativa": "Relutante", "pontuacao_tcc": 1, "pontuacao_act": 1, "pontuacao_th": 1, "pontuacao_tp": 1, "pontuacao_dbt": 1 },
+  
+    { "id_pergunta": 7, "alternativa": "Confortável", "pontuacao_tcc": 0, "pontuacao_act": 0, "pontuacao_th": 4, "pontuacao_tp": 3, "pontuacao_dbt": 0 },
+    { "id_pergunta": 7, "alternativa": "Incomodado", "pontuacao_tcc": 4, "pontuacao_act": 5, "pontuacao_th": 0, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 7, "alternativa": "Apreensivo", "pontuacao_tcc": 3, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 3, "pontuacao_dbt": 3 },
+  
+    { "id_pergunta": 8, "alternativa": "Presenciais", "pontuacao_tcc": 3, "pontuacao_act": 0, "pontuacao_th": 3, "pontuacao_tp": 0, "pontuacao_dbt": 0 },
+    { "id_pergunta": 8, "alternativa": "Online", "pontuacao_tcc": 0, "pontuacao_act": 3, "pontuacao_th": 3, "pontuacao_tp": 0, "pontuacao_dbt": 3 },
+    
+    { "id_pergunta": 9, "alternativa": "Empatia", "pontuacao_tcc": 4, "pontuacao_act": 3, "pontuacao_th": 0, "pontuacao_tp": 5, "pontuacao_dbt": 0 },
+    { "id_pergunta": 9, "alternativa": "Experiência", "pontuacao_tcc": 0, "pontuacao_act": 0, "pontuacao_th": 4, "pontuacao_tp": 3, "pontuacao_dbt": 0 },
+    { "id_pergunta": 9, "alternativa": "Atenção plena", "pontuacao_tcc": 0, "pontuacao_act": 5, "pontuacao_th": 3, "pontuacao_tp": 0, "pontuacao_dbt": 5 }
+  ]
+  

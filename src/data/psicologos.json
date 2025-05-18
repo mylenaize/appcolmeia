@@ -1,0 +1,33 @@
+[
+    {
+      "nome": "Ana Souza",
+      "abordagem": "Terapia Cognitivo-Comportamental (TCC)",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "modal_atend": "Online",
+      "disponibilidade": "Disponível à tarde",
+      "idioma": "Português",
+      "plano_saude": "Bradesco Saúde"
+    },
+    {
+      "nome": "João Silva",
+      "abordagem": "Terapia Psicanalítica",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "modal_atend": "Presencial",
+      "disponibilidade": "Disponível pela manhã",
+      "idioma": "Português",
+      "plano_saude": "Unimed"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "abordagem": "Terapia Gestalt",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "modal_atend": "Online",
+      "disponibilidade": "Disponível à noite",
+      "idioma": "Português",
+      "plano_saude": "Amil"
+    }
+  ]
+  

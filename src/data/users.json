@@ -1,0 +1,23 @@
+[
+    {
+      "email": "lucca.torres@example.com",
+      "password": "123",
+      "name": "Lucca Torres",
+      "age": 30,
+      "city": "Sao Paulo",
+      "state": "SP",
+      "plan": "Saude Basica",
+      "accessibility": "Não possuo"
+    },
+    {
+      "email": "vitor.santos@outlook.com",
+      "password": "456",
+      "name": "Vitor Santos",
+      "age": 25,
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "plan": "Saude Premium",
+      "accessibility": "PCD"
+    }
+  ]
+  
