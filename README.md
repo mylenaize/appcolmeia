@@ -1,59 +1,50 @@
+# Welcome to your Expo app 👋
 
-# 🌻 Colmeia - Aplicativo de Apoio à Saúde Mental Feminina 40+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-**Colmeia** é um aplicativo mobile desenvolvido como prova de conceito para o Projeto Integrador do 5º semestre dos cursos de TADS/TSI. Ele tem como objetivo apoiar mulheres acima de 40 anos a identificarem abordagens terapêuticas compatíveis com seu perfil emocional e comportamental, conectando-as com psicólogos fictícios que atendem planos de saúde.
+## Get started
 
-## 👥 Membros do projeto:
-- Rafael da Silva Domingos (Fontes de Informações)
-- Michael Dione da Silva (Fontes de informações)
-- Pamela Ramos Martins (Frontend)
-- João Rodrigo Lapsky (Mapeamento de Interface interativa)
-- Mylena Torres Flores (Backend)
+1. Install dependencies
 
-## 🌟 Funcionalidades
-- Questionário com 10 perguntas comportamentais
-- Mapeamento automático para abordagens terapêuticas (TCC, Psicanálise, Junguiana etc.)
-- Exibição da abordagem mais compatível com descrição completa
-- Sugestão de psicólogos fictícios com planos e contatos
-- Tela de perfil com dados pessoais editáveis
+   ```bash
+   npm install
+   ```
 
-## 🧰 Tecnologias utilizadas
-### Frontend
-- React Native + Expo
-- TypeScript + React Navigation
+2. Start the app
 
-### Backend
-- Flask (simula dados via JSON)
-- Endpoints REST para respostas e psicólogos (mocked)
+   ```bash
+    npx expo start
+   ```
 
-### Banco de Dados
-- Modelo Físico em SQL (PostgreSQL)
-- Tabelas: `usuarios`, `perguntas`, `respostas`, `abordagens`, `psicologos`
+In the output, you'll find options to open the app in a
 
-### Landing Page
-- HTML5 + CSS3
-- Publicada via GitHub Pages
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-## 🎩 Como rodar o projeto
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
 ```bash
-# Clonar o repositório
-https://github.com/seu-usuario/colmeia
-
-# Instalar dependências do app mobile
-cd mobile
-npm install
-npx expo start
-
-# (Opcional) Rodar backend local
-cd backend
-python app.py
+npm run reset-project
 ```
 
-## 👥 Membros do projeto
-- @usuario1 (Frontend e UX)
-- @usuario2 (Backend e Banco de Dados)
-- @usuario3 (Documentação e Landing Page)
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## ✅ Status do Projeto
-Projeto funcional e publicado como prova de conceito. Pronto para evolução com dados reais e autenticação segura.
-![image](https://github.com/user-attachments/assets/a91be54d-b370-403c-9f69-1ec201c5675c)
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

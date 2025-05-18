@@ -23,10 +23,12 @@ export default function Register() {
     }
 
     try {
-      const userData = { email, password, details: null };
-      await AsyncStorage.setItem('userDetails', JSON.stringify(userData));
+      // Salva email e senha separadamente (como o login espera)
+      await AsyncStorage.setItem('userEmail', email);
+      await AsyncStorage.setItem('userPassword', password);
+
       Alert.alert('Sucesso', 'Cadastro realizado com sucesso!');
-      navigation.navigate('Questions');
+      navigation.navigate('Login'); // Redireciona para login
     } catch (error) {
       console.error('Erro ao salvar dados do usuário:', error);
       Alert.alert('Erro', 'Não foi possível completar o cadastro.');
@@ -73,4 +75,3 @@ export default function Register() {
     </View>
   );
 }
-

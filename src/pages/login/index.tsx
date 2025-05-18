@@ -43,6 +43,8 @@ export default function Login() {
           placeholder="Email"
           value={email}
           onChangeText={setEmail}
+          autoCapitalize="none"
+          keyboardType="email-address"
           style={style.input}
         />
         <TextInput
@@ -65,4 +67,3 @@ export default function Login() {
     </View>
   );
 }
-

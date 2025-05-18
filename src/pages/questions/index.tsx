@@ -193,6 +193,7 @@ const Questions = () => {
   const currentQuestion = QUESTIONS[currentQuestionIndex];
 
   return (
+    
     <View style={styles.container}>
       <Text style={styles.question}>{currentQuestion.question}</Text>
 

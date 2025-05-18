@@ -10,17 +10,17 @@ export const style = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between', 
     alignItems: 'center', 
-    marginBottom: 20,
+    marginBottom: 0,
   },
   logo: {
-    width: 150,
-    height: 200,
-    marginTop: 0,
+    width: 100,
+    height: 100,
+    marginTop: 20,
 
   },
   loginIcon: {
     width: 50,
-    height: 50,
+    height: 40,
     marginTop: 25,
   },
   buttonsContainer: {
@@ -34,8 +34,9 @@ export const style = StyleSheet.create({
     backgroundColor: '#42263F', 
     paddingVertical: 10,
     paddingHorizontal: 20,
+    width: "100%",
     borderRadius: 20,
-    marginBottom: 10, 
+    marginBottom: 5, 
     marginRight: 10, 
   },
   buttonText: {
@@ -45,7 +46,7 @@ export const style = StyleSheet.create({
     textAlign: 'center',
   },
   buttonPressed: {
-    backgroundColor: '#FF7F50', 
+    backgroundColor: '#42263F', 
   },
   title: {
     fontSize: 22,
@@ -78,7 +79,7 @@ export const style = StyleSheet.create({
   },
   registerButton: {
     alignSelf: 'center',
-    backgroundColor: '#F27B13', 
+    backgroundColor: '#42263F', 
     width: "70%",
     paddingVertical: 15,
     borderRadius: 30,
