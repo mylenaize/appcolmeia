@@ -1,50 +1,79 @@
-# Welcome to your Expo app 👋
+# 🐝 Colmeia – Saúde Mental para Mulheres em Transformação
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Colmeia** é um aplicativo mobile criado como prova de conceito para o Projeto Integrador do 5º semestre de TADS/TSI, com foco em tecnologia e bem-estar emocional. Ele é voltado para mulheres em fase de amadurecimento que desejam compreender melhor sua saúde mental e encontrar uma abordagem terapêutica adequada ao seu perfil.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎯 Objetivo do Projeto
+Desenvolver uma **prova de conceito funcional**, demonstrável e publicável, que aborde a importância da saúde mental com foco em personalização, empatia e orientação terapêutica.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 📱 Funcionalidades
+- Questionário com 10 perguntas que analisa estilo emocional e comportamental
+- Mapeamento com 6 abordagens terapêuticas (TCC, Psicanálise, Junguiana, TAC, Gestalt, Positiva)
+- Recomendação personalizada de abordagem terapêutica
+- Sugestão de psicólogos fictícios com contato e planos atendidos
+- Edição de dados no perfil do usuário
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧩 Tecnologias Utilizadas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Frontend (Mobile)
+- React Native + Expo
+- TypeScript + React Navigation
+- AsyncStorage para simulação de banco de dados local
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Backend
+- Simulado via lógica embutida no próprio app (sem servidor externo)
+- Dados persistidos localmente no dispositivo usando `AsyncStorage`
 
-## Get a fresh project
+### Banco de Dados (Modelo)
+- Utilização de estrutura JSON simulada para cadastro de usuários e respostas
+- Modelo físico entregue em SQL com tabelas `usuarios`, `respostas`, `abordagens`, `psicologos`
 
-When you're ready, run:
+### Landing Page
+- Desenvolvida em React Native com tela “Quem Somos”, “Como podemos ajudar?” e “Abordagens Terapêuticas”
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📂 Organização do Código
+- `/src/pages` – telas principais (Login, Register, Questions, Details, Perfil)
+- `/assets` – imagens da logo e ícones
+- `routes` – configuração das rotas do app
+- `AsyncStorage` – simula persistência de dados (login e dados pessoais)
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🧪 Requisitos do Projeto Integrador
+| Entregável                                | Status     |
+|-------------------------------------------|------------|
+| Modelo físico de banco de dados (SQL)     | ✅ Entregue |
+| Frontend funcional (mobile)               | ✅ Entregue |
+| Backend (simulado com AsyncStorage)       | ✅ Entregue |
+| GitHub com README.md e membros            | ✅ Entregue |
+| Landing Page publicada (tela informativa) | ✅ Entregue |
+| Vídeo demonstrativo (1 minuto)            | ✅ Entregue |
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 🎥 Link do Vídeo Demonstrativo
+📽️ Em breve disponível em: [YouTube](https://youtube.com/seu-video-link)
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🧑‍💻 Integrantes do Projeto
+- Nome 1 – Frontend e navegação
+- Nome 2 – Banco de dados e lógica de questionário
+- Nome 3 – Landing page e documentação
+
+---
+
+## 📝 Observações Finais
+O Colmeia entrega uma proposta acessível, empática e funcional, com potencial de crescimento futuro para incluir:
+- Cadastro de múltiplos usuários
+- Integração com banco externo
+- Sistema de agendamento real com profissionais
+
+> *“Cuidar da mente é um gesto de respeito consigo mesma.”*
