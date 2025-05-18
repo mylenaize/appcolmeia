@@ -42,12 +42,6 @@ cd backend
 python app.py
 ```
 
-## 🌍 Link da landing page
-[Acessar Landing Page](https://seu-usuario.github.io/colmeia)
-
-## 🎥 Demonstração em vídeo
-[Assista ao vídeo de 1 minuto](https://youtube.com/seu-video-link)
-
 ## 👥 Membros do projeto
 - @usuario1 (Frontend e UX)
 - @usuario2 (Backend e Banco de Dados)
