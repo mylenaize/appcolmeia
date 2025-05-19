@@ -2,6 +2,15 @@
 
 **Colmeia** é um aplicativo mobile criado como prova de conceito para o Projeto Integrador do 5º semestre de TADS/TSI, com foco em tecnologia e bem-estar emocional. Ele é voltado para mulheres em fase de amadurecimento que desejam compreender melhor sua saúde mental e encontrar uma abordagem terapêutica adequada ao seu perfil.
 
+
+---
+Membros do projeto:
+Mylena Torres Flores (Backend)
+Pamela Ramos Martins (Frontend)
+Joao Rodrigo Lapsky (Arquitetura)
+Rafael da Silva Domingos (Pesquisa)
+Michael Dione da Silva (Pesquisa)
+
 ---
 
 ## 🎯 Objetivo do Projeto
