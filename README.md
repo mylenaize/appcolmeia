@@ -5,11 +5,11 @@
 
 ---
 Membros do projeto:
-Mylena Torres Flores (Backend)
-Pamela Ramos Martins (Frontend)
-Joao Rodrigo Lapsky (Arquitetura)
-Rafael da Silva Domingos (Pesquisa)
-Michael Dione da Silva (Pesquisa)
+- Mylena Torres Flores (Backend)
+- Pamela Ramos Martins (Frontend)
+- Joao Rodrigo Lapsky (Arquitetura)
+- Rafael da Silva Domingos (Pesquisa)
+- Michael Dione da Silva (Pesquisa)
 
 ---
 
