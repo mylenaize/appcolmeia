@@ -67,18 +67,6 @@ Desenvolver uma **prova de conceito funcional**, demonstrável e publicável, qu
 
 ---
 
-## 🎥 Link do Vídeo Demonstrativo
-📽️ Em breve disponível em: [YouTube](https://youtube.com/seu-video-link)
-
----
-
-## 🧑‍💻 Integrantes do Projeto
-- Nome 1 – Frontend e navegação
-- Nome 2 – Banco de dados e lógica de questionário
-- Nome 3 – Landing page e documentação
-
----
-
 ## 📝 Observações Finais
 O Colmeia entrega uma proposta acessível, empática e funcional, com potencial de crescimento futuro para incluir:
 - Cadastro de múltiplos usuários
